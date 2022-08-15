@@ -1,0 +1,14 @@
+.worth__box {
+  display: flex;
+  align-items: center;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.box__speed {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  margin: 15px;
+  padding: 15px;
+}
